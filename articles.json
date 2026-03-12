@@ -1,8 +1,16 @@
 [
   {
+    "title": "AIを子どもに使わせる授業、実は教師の”授業力”がバレる件",
+    "date": "2026-03-13",
+    "url": "https://note.com/hiroki_sasazawa/n/n3bd428285469",
+    "tags": [],
+    "category": "AI活用",
+    "categoryColor": "#8b5cf6"
+  },
+  {
     "title": "「いた」んじゃなくて「見えていた」→ AIが研ぎ澄ませた、教師の見る目",
     "date": "2026-03-04",
-    "url": null,
+    "url": "https://note.com/hiroki_sasazawa/n/n1d1268521e23",
     "tags": [
       "AI",
       "教育",
@@ -15,7 +23,7 @@
   {
     "title": "Gitリポジトリが1.3GBに膨れた日 —— Git LFSで画像管理を立て直した話",
     "date": "2026-03-02",
-    "url": null,
+    "url": "https://note.com/hiroki_sasazawa/n/nf13fd5683e0a",
     "tags": [
       "Git",
       "GitHub",
@@ -30,7 +38,7 @@
   {
     "title": "ふり返りを急がせてごめん。「寝かせる時間」と「楔」の話",
     "date": "2026-03-01",
-    "url": null,
+    "url": "https://note.com/hiroki_sasazawa/n/ncdaed86b300d",
     "tags": [
       "教育",
       "ふり返り",
@@ -46,7 +54,7 @@
   {
     "title": "AIを使い倒す教員が、それでも教室に立ち続ける理由",
     "date": "2026-02-26",
-    "url": null,
+    "url": "https://note.com/hiroki_sasazawa/n/n6990768de5f5",
     "tags": [
       "AI",
       "教育",
@@ -92,7 +100,7 @@
   {
     "title": "スプレッドシートで見取りを貯めてAntigravityで整える所見文づくりの新しいやり方",
     "date": "2026-02-21",
-    "url": null,
+    "url": "https://note.com/hiroki_sasazawa/n/n841d4b0b9ca7",
     "tags": [],
     "category": "GAS・スプレッドシート",
     "categoryColor": "#f59e0b"
@@ -100,7 +108,7 @@
   {
     "title": "「先生、AIって使ったほうがいいですか？」に対する、私の長すぎる回答",
     "date": "2026-02-18",
-    "url": null,
+    "url": "https://note.com/hiroki_sasazawa/n/necf07b50138b",
     "tags": [],
     "category": "AI活用",
     "categoryColor": "#8b5cf6"
@@ -108,7 +116,7 @@
   {
     "title": "「届く」を定義し直したら、発信が変わった。",
     "date": "2026-02-18",
-    "url": null,
+    "url": "https://note.com/hiroki_sasazawa/n/n42f9356aeacd",
     "tags": [
       "教育DX",
       "教育ICT",
@@ -124,7 +132,7 @@
   {
     "title": "20260215発信することは、人の役にたち、自分の軸を太くする",
     "date": "2026-02-15",
-    "url": null,
+    "url": "https://note.com/hiroki_sasazawa/n/naceddadde4fc",
     "tags": [],
     "category": "エッセイ",
     "categoryColor": "#6b7280"
@@ -132,7 +140,7 @@
   {
     "title": "20260214gemini-GASで爆速フォームをつくる",
     "date": "2026-02-14",
-    "url": null,
+    "url": "https://note.com/hiroki_sasazawa/n/n69d6da84d8dc",
     "tags": [],
     "category": "GAS・スプレッドシート",
     "categoryColor": "#f59e0b"
@@ -140,7 +148,7 @@
   {
     "title": "2026-02-08 発信するネタがないと思っている人へ やったことを書くだけでいい",
     "date": "2026-02-08",
-    "url": null,
+    "url": "https://note.com/hiroki_sasazawa/n/n2d9e83fe5310",
     "tags": [],
     "category": "エッセイ",
     "categoryColor": "#6b7280"
@@ -148,7 +156,7 @@
   {
     "title": "Googleサイトに埋め込んで公開するまでの全手順図解　｜「AIでの教材自作」から「子どもへの配信」までがすべて完結する安心のスタートパッケージ",
     "date": "2026-02-07",
-    "url": null,
+    "url": "https://note.com/hiroki_sasazawa/n/n00cd94f82897",
     "tags": [],
     "category": "AI活用",
     "categoryColor": "#8b5cf6"
@@ -156,7 +164,7 @@
   {
     "title": "2025-12-27 職員研修でNotebookLMの使い方を実演した話",
     "date": "2025-12-27",
-    "url": null,
+    "url": "https://note.com/hiroki_sasazawa/n/n7543e84d9fc1",
     "tags": [],
     "category": "AI活用",
     "categoryColor": "#8b5cf6"
@@ -164,7 +172,7 @@
   {
     "title": "2025-12-27 職員研修でノートブックLMを紹介したら職員室が熱狂した話",
     "date": "2025-12-27",
-    "url": null,
+    "url": "https://note.com/hiroki_sasazawa/n/n7597d92876bb",
     "tags": [],
     "category": "授業実践",
     "categoryColor": "#ec4899"
@@ -180,7 +188,7 @@
   {
     "title": "NotebookLMで社会科の問いを3つの形式で可視化！インフォグラフィック・スライド・動画で子どもたちの学びが変わった話",
     "date": "2025-12-13",
-    "url": null,
+    "url": "https://note.com/hiroki_sasazawa/n/nccec50c2d438",
     "tags": [
       "NotebookLM",
       "社会科",
@@ -195,7 +203,7 @@
   {
     "title": "2025-11-30 5分で算数教材が完成！Google AI Studioで作ったゲームが息子の理解を一気に加速させた話",
     "date": "2025-11-30",
-    "url": null,
+    "url": "https://note.com/hiroki_sasazawa/n/n8d4f79c65837",
     "tags": [],
     "category": "AI活用",
     "categoryColor": "#8b5cf6"
@@ -227,7 +235,7 @@
   {
     "title": "2025-11-07 スマホだけでルーブリック作成",
     "date": "2025-11-07",
-    "url": null,
+    "url": "https://note.com/hiroki_sasazawa/n/n8cffd5cc7fb3",
     "tags": [],
     "category": "エッセイ",
     "categoryColor": "#6b7280"
@@ -235,7 +243,7 @@
   {
     "title": "2025-11-02 AIで業務効率化のはずが...楽しすぎて時間が溶ける！教員のAI探求パラドックス",
     "date": "2025-11-02",
-    "url": null,
+    "url": "https://note.com/hiroki_sasazawa/n/na3abb77efea8",
     "tags": [],
     "category": "AI活用",
     "categoryColor": "#8b5cf6"
@@ -243,7 +251,7 @@
   {
     "title": "2025-11-02 セカンドギガで端末の入れ替え、せっかくだから端末管理アプリを作った話",
     "date": "2025-11-02",
-    "url": null,
+    "url": "https://note.com/hiroki_sasazawa/n/n40a9382d4187",
     "tags": [],
     "category": "アプリ開発",
     "categoryColor": "#3b82f6"
@@ -259,7 +267,7 @@
   {
     "title": "2025-11-01 AIで書類作成が楽になる...はずが表のレイアウトに30分！年1回しか使わない教育委員会提出書類の面倒臭さ",
     "date": "2025-11-01",
-    "url": null,
+    "url": "https://note.com/hiroki_sasazawa/n/n3f7a24963fd1",
     "tags": [],
     "category": "AI活用",
     "categoryColor": "#8b5cf6"
@@ -275,7 +283,7 @@
   {
     "title": "2025-10-25 # 「なんで私のクラスばっかり...」初任者の涙から見えたサポートのジレンマ",
     "date": "2025-10-25",
-    "url": null,
+    "url": "https://note.com/hiroki_sasazawa/n/nb110548679d6",
     "tags": [],
     "category": "エッセイ",
     "categoryColor": "#6b7280"
@@ -283,7 +291,7 @@
   {
     "title": "2025-09-21 ささっと音声メモChrome拡張機能",
     "date": "2025-09-21",
-    "url": null,
+    "url": "https://note.com/hiroki_sasazawa/n/n2b10718e9075",
     "tags": [],
     "category": "エッセイ",
     "categoryColor": "#6b7280"
@@ -307,7 +315,7 @@
   {
     "title": "2025-08-18 Googleスライド一撃生成Webアプリ開発",
     "date": "2025-08-18",
-    "url": null,
+    "url": "https://note.com/hiroki_sasazawa/n/n8ebcf4279625",
     "tags": [],
     "category": "アプリ開発",
     "categoryColor": "#3b82f6"
@@ -315,7 +323,7 @@
   {
     "title": "「授業の準備くらい当たり前でしょ」と言う前に考えてほしいこと",
     "date": "2025-07-10",
-    "url": null,
+    "url": "https://note.com/hiroki_sasazawa/n/naf024608d4b0",
     "tags": [],
     "category": "授業実践",
     "categoryColor": "#ec4899"
@@ -323,7 +331,7 @@
   {
     "title": "先生の弱さを見せる勇気-自己開示が作る学級の絆",
     "date": "2025-07-10",
-    "url": null,
+    "url": "https://note.com/hiroki_sasazawa/n/n36e79ae1f1c7",
     "tags": [],
     "category": "授業実践",
     "categoryColor": "#ec4899"
@@ -331,7 +339,7 @@
   {
     "title": "学年主任の「効率化」って、実は初任者を救う最強の愛情表現だった話",
     "date": "2025-07-05",
-    "url": null,
+    "url": "https://note.com/hiroki_sasazawa/n/nc56c912980e3",
     "tags": [],
     "category": "授業実践",
     "categoryColor": "#ec4899"
