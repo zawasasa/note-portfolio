@@ -238,15 +238,28 @@
       background: var(--bg-card);
       border: 1px solid var(--border-card);
       border-radius: 16px;
-      padding: 24px;
       text-decoration: none;
       color: inherit;
       transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
       display: flex;
       flex-direction: column;
-      gap: 12px;
       position: relative;
       overflow: hidden;
+    }
+
+    .card-img {
+      width: 100%;
+      aspect-ratio: 1.91 / 1;
+      object-fit: cover;
+      display: block;
+    }
+
+    .card-body {
+      padding: 16px 20px 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      flex: 1;
     }
 
     .card::before {
@@ -502,14 +515,21 @@
         const tag = a.url ? 'a' : 'div';
         const href = a.url ? ` href="${a.url}" target="_blank" rel="noopener"` : '';
 
+        const imgHtml = a.eyecatch
+          ? `<img class="card-img" src="${a.eyecatch}" alt="" loading="lazy">`
+          : '';
+
         return `
           <${tag} class="card"${href}>
-            <div class="card-header">
-              <span class="card-date">${dateStr}</span>
-              <span class="card-category" style="${categoryStyle}">${a.category}</span>
+            ${imgHtml}
+            <div class="card-body">
+              <div class="card-header">
+                <span class="card-date">${dateStr}</span>
+                <span class="card-category" style="${categoryStyle}">${a.category}</span>
+              </div>
+              <div class="card-title">${escapeHtml(a.title)}</div>
+              <div class="card-tags">${tagsHtml}${noLinkHtml}</div>
             </div>
-            <div class="card-title">${escapeHtml(a.title)}</div>
-            <div class="card-tags">${tagsHtml}${noLinkHtml}</div>
           </${tag}>
         `;
       }).join('');

@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 /**
- * build.js - 56_note発信済み/ からフロントマターを抽出して articles.json を生成
+ * build.js - 56_note発信済み/ からフロントマターを抽出し、
+ *            note.com API からサムネイルを取得して articles.json を生成
  *
  * 使い方: node build.js [記事フォルダのパス]
  * デフォルト: ../Atama_no_naka4/56_note発信済み/
@@ -11,6 +12,7 @@ const path = require('path');
 
 const SOURCE_DIR = process.argv[2] || path.join(__dirname, '..', 'Atama_no_naka4', '56_note発信済み');
 const OUTPUT_FILE = path.join(__dirname, 'articles.json');
+const API_BASE = 'https://note.com/api/v2/creators/hiroki_sasazawa/contents?kind=note&page=';
 
 // カテゴリ分類ルール（優先順に判定）
 const CATEGORY_RULES = [
@@ -48,6 +50,36 @@ const CATEGORY_RULES = [
 
 const DEFAULT_CATEGORY = { name: 'エッセイ', color: '#6b7280' };
 
+// note.com API から全記事のサムネイルを取得
+async function fetchEyecatches() {
+  const map = new Map(); // url → eyecatch
+  let page = 1;
+  let isLastPage = false;
+
+  console.log('note.com API からサムネイルを取得中...');
+
+  while (!isLastPage) {
+    const res = await fetch(API_BASE + page);
+    if (!res.ok) break;
+    const json = await res.json();
+    const contents = json.data?.contents || [];
+
+    for (const item of contents) {
+      const url = `https://note.com/hiroki_sasazawa/n/${item.key}`;
+      if (item.eyecatch) {
+        map.set(url, item.eyecatch);
+      }
+    }
+
+    isLastPage = json.data?.isLastPage || contents.length === 0;
+    page++;
+    await new Promise(r => setTimeout(r, 200));
+  }
+
+  console.log(`  ${map.size} 件のサムネイルを取得\n`);
+  return map;
+}
+
 function parseFrontmatter(content) {
   const match = content.match(/^---\n([\s\S]*?)\n---/);
   if (!match) return null;
@@ -55,25 +87,21 @@ function parseFrontmatter(content) {
   const yaml = match[1];
   const data = {};
 
-  // シンプルなYAMLパーサー（ライブラリ不要）
   let currentKey = null;
   let inArray = false;
 
   for (const line of yaml.split('\n')) {
-    // 配列項目（  - value）
     if (inArray && /^\s+-\s+(.+)/.test(line)) {
       const val = line.match(/^\s+-\s+(.+)/)[1].replace(/^["']|["']$/g, '');
       data[currentKey].push(val);
       continue;
     }
 
-    // キー: 値
     const kvMatch = line.match(/^(\w[\w_]*)\s*:\s*(.*)/);
     if (kvMatch) {
       const key = kvMatch[1];
       let value = kvMatch[2].trim();
 
-      // インライン配列 [a, b, c]
       if (value.startsWith('[') && value.endsWith(']')) {
         data[key] = value.slice(1, -1).split(',').map(v => v.trim().replace(/^["']|["']$/g, ''));
         currentKey = key;
@@ -81,15 +109,13 @@ function parseFrontmatter(content) {
         continue;
       }
 
-      // 配列の開始（値が空）
-      if (value === '' || value === '') {
+      if (value === '') {
         data[key] = [];
         currentKey = key;
         inArray = true;
         continue;
       }
 
-      // 通常の値
       data[key] = value.replace(/^["']|["']$/g, '');
       currentKey = key;
       inArray = false;
@@ -100,11 +126,9 @@ function parseFrontmatter(content) {
 }
 
 function extractDateFromFilename(filename) {
-  // 2023-07-26-タイトル.md
   const match1 = filename.match(/^(\d{4}-\d{2}-\d{2})/);
   if (match1) return match1[1];
 
-  // 20260226_タイトル.md
   const match2 = filename.match(/^(\d{4})(\d{2})(\d{2})/);
   if (match2) return `${match2[1]}-${match2[2]}-${match2[3]}`;
 
@@ -120,7 +144,7 @@ function categorize(title) {
   return DEFAULT_CATEGORY;
 }
 
-function buildArticles() {
+function buildArticles(eyecatches) {
   const files = fs.readdirSync(SOURCE_DIR)
     .filter(f => f.endsWith('.md'));
 
@@ -131,10 +155,8 @@ function buildArticles() {
     const content = fs.readFileSync(filepath, 'utf-8');
     const fm = parseFrontmatter(content);
 
-    // タイトル取得（フロントマター > ファイル名から推測）
     let title = fm?.title;
     if (!title) {
-      // ファイル名からタイトルを推測
       title = file
         .replace(/\.md$/, '')
         .replace(/^\d{4}-\d{2}-\d{2}-/, '')
@@ -142,48 +164,51 @@ function buildArticles() {
         .replace(/_/g, ' ');
     }
 
-    // 日付取得
     let date = fm?.date || extractDateFromFilename(file);
-    if (!date) continue; // 日付不明はスキップ
+    if (!date) continue;
 
-    // URL取得
     const url = fm?.url || fm?.published_url || null;
-
-    // タグ取得
     const tags = fm?.tags || [];
-
-    // カテゴリ分類
     const category = categorize(title);
+
+    // サムネイル取得（note.com APIから）
+    const eyecatch = url ? (eyecatches.get(url) || null) : null;
 
     articles.push({
       title,
       date: String(date),
       url,
+      eyecatch,
       tags: Array.isArray(tags) ? tags : [],
       category: category.name,
       categoryColor: category.color,
     });
   }
 
-  // 日付で降順ソート（新しい順）
   articles.sort((a, b) => b.date.localeCompare(a.date));
-
   return articles;
 }
 
-const articles = buildArticles();
-fs.writeFileSync(OUTPUT_FILE, JSON.stringify(articles, null, 2), 'utf-8');
+async function main() {
+  const eyecatches = await fetchEyecatches();
+  const articles = buildArticles(eyecatches);
+  fs.writeFileSync(OUTPUT_FILE, JSON.stringify(articles, null, 2), 'utf-8');
 
-// カテゴリ別の統計
-const stats = {};
-for (const a of articles) {
-  stats[a.category] = (stats[a.category] || 0) + 1;
+  const stats = {};
+  for (const a of articles) {
+    stats[a.category] = (stats[a.category] || 0) + 1;
+  }
+
+  const withThumb = articles.filter(a => a.eyecatch).length;
+
+  console.log(`✅ ${articles.length}件の記事を articles.json に出力しました`);
+  console.log('\nカテゴリ別:');
+  for (const [cat, count] of Object.entries(stats).sort((a, b) => b[1] - a[1])) {
+    console.log(`  ${cat}: ${count}件`);
+  }
+  console.log(`\n  URL付き: ${articles.filter(a => a.url).length}件`);
+  console.log(`  URLなし: ${articles.filter(a => !a.url).length}件`);
+  console.log(`  サムネイル付き: ${withThumb}件`);
 }
 
-console.log(`✅ ${articles.length}件の記事を articles.json に出力しました`);
-console.log('\nカテゴリ別:');
-for (const [cat, count] of Object.entries(stats).sort((a, b) => b[1] - a[1])) {
-  console.log(`  ${cat}: ${count}件`);
-}
-console.log(`\n  URL付き: ${articles.filter(a => a.url).length}件`);
-console.log(`  URLなし: ${articles.filter(a => !a.url).length}件`);
+main().catch(console.error);
