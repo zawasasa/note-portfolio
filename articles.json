@@ -1,0 +1,1163 @@
+[
+  {
+    "title": "「いた」んじゃなくて「見えていた」→ AIが研ぎ澄ませた、教師の見る目",
+    "date": "2026-03-04",
+    "url": null,
+    "tags": [
+      "AI",
+      "教育",
+      "見取り",
+      "学校"
+    ],
+    "category": "AI活用",
+    "categoryColor": "#8b5cf6"
+  },
+  {
+    "title": "Gitリポジトリが1.3GBに膨れた日 —— Git LFSで画像管理を立て直した話",
+    "date": "2026-03-02",
+    "url": null,
+    "tags": [
+      "Git",
+      "GitHub",
+      "Git LFS",
+      "画像管理",
+      "自動化",
+      "開発効率化"
+    ],
+    "category": "エッセイ",
+    "categoryColor": "#6b7280"
+  },
+  {
+    "title": "ふり返りを急がせてごめん。「寝かせる時間」と「楔」の話",
+    "date": "2026-03-01",
+    "url": null,
+    "tags": [
+      "教育",
+      "ふり返り",
+      "行事",
+      "スループット",
+      "学校の働き方",
+      "小学校",
+      "教員の気づき"
+    ],
+    "category": "エッセイ",
+    "categoryColor": "#6b7280"
+  },
+  {
+    "title": "AIを使い倒す教員が、それでも教室に立ち続ける理由",
+    "date": "2026-02-26",
+    "url": null,
+    "tags": [
+      "AI",
+      "教育",
+      "学校",
+      "身体性"
+    ],
+    "category": "AI活用",
+    "categoryColor": "#8b5cf6"
+  },
+  {
+    "title": "AIを使い倒す教員が、それでも教室に立ち続ける理由",
+    "date": "2026-02-26",
+    "url": null,
+    "tags": [
+      "AI",
+      "教育",
+      "学校",
+      "身体性"
+    ],
+    "category": "AI活用",
+    "categoryColor": "#8b5cf6"
+  },
+  {
+    "title": "その仕事、\\\"器\\\"ごと捨てようとしてませんか",
+    "date": "2026-02-25",
+    "url": "https://note.com/hiroki_sasazawa/n/n5c5a40c9b7d0",
+    "tags": [
+      "教育",
+      "学校DX",
+      "業務改善"
+    ],
+    "category": "エッセイ",
+    "categoryColor": "#6b7280"
+  },
+  {
+    "title": "AIに何をさせるかより自分は何を手放さないかを決めたほうがいい話",
+    "date": "2026-02-22",
+    "url": "https://note.com/hiroki_sasazawa/n/n387ef2631c3d",
+    "tags": [],
+    "category": "AI活用",
+    "categoryColor": "#8b5cf6"
+  },
+  {
+    "title": "スプレッドシートで見取りを貯めてAntigravityで整える所見文づくりの新しいやり方",
+    "date": "2026-02-21",
+    "url": null,
+    "tags": [],
+    "category": "GAS・スプレッドシート",
+    "categoryColor": "#f59e0b"
+  },
+  {
+    "title": "「先生、AIって使ったほうがいいですか？」に対する、私の長すぎる回答",
+    "date": "2026-02-18",
+    "url": null,
+    "tags": [],
+    "category": "AI活用",
+    "categoryColor": "#8b5cf6"
+  },
+  {
+    "title": "「届く」を定義し直したら、発信が変わった。",
+    "date": "2026-02-18",
+    "url": null,
+    "tags": [
+      "教育DX",
+      "教育ICT",
+      "X発信",
+      "働き方改革",
+      "学校現場",
+      "小学校教員",
+      "教師の働き方"
+    ],
+    "category": "エッセイ",
+    "categoryColor": "#6b7280"
+  },
+  {
+    "title": "20260215発信することは、人の役にたち、自分の軸を太くする",
+    "date": "2026-02-15",
+    "url": null,
+    "tags": [],
+    "category": "エッセイ",
+    "categoryColor": "#6b7280"
+  },
+  {
+    "title": "20260214gemini-GASで爆速フォームをつくる",
+    "date": "2026-02-14",
+    "url": null,
+    "tags": [],
+    "category": "GAS・スプレッドシート",
+    "categoryColor": "#f59e0b"
+  },
+  {
+    "title": "2026-02-08 発信するネタがないと思っている人へ やったことを書くだけでいい",
+    "date": "2026-02-08",
+    "url": null,
+    "tags": [],
+    "category": "エッセイ",
+    "categoryColor": "#6b7280"
+  },
+  {
+    "title": "Googleサイトに埋め込んで公開するまでの全手順図解　｜「AIでの教材自作」から「子どもへの配信」までがすべて完結する安心のスタートパッケージ",
+    "date": "2026-02-07",
+    "url": null,
+    "tags": [],
+    "category": "AI活用",
+    "categoryColor": "#8b5cf6"
+  },
+  {
+    "title": "2025-12-27 職員研修でNotebookLMの使い方を実演した話",
+    "date": "2025-12-27",
+    "url": null,
+    "tags": [],
+    "category": "AI活用",
+    "categoryColor": "#8b5cf6"
+  },
+  {
+    "title": "2025-12-27 職員研修でノートブックLMを紹介したら職員室が熱狂した話",
+    "date": "2025-12-27",
+    "url": null,
+    "tags": [],
+    "category": "授業実践",
+    "categoryColor": "#ec4899"
+  },
+  {
+    "title": "2025-12-16 共働き教師夫婦の看護休暇と学級経営 自習課題の準備が鍵",
+    "date": "2025-12-16",
+    "url": null,
+    "tags": [],
+    "category": "授業実践",
+    "categoryColor": "#ec4899"
+  },
+  {
+    "title": "NotebookLMで社会科の問いを3つの形式で可視化！インフォグラフィック・スライド・動画で子どもたちの学びが変わった話",
+    "date": "2025-12-13",
+    "url": null,
+    "tags": [
+      "NotebookLM",
+      "社会科",
+      "AI活用",
+      "問いの整理",
+      "インフォグラフィック",
+      "授業実践"
+    ],
+    "category": "AI活用",
+    "categoryColor": "#8b5cf6"
+  },
+  {
+    "title": "2025-11-30 5分で算数教材が完成！Google AI Studioで作ったゲームが息子の理解を一気に加速させた話",
+    "date": "2025-11-30",
+    "url": null,
+    "tags": [],
+    "category": "AI活用",
+    "categoryColor": "#8b5cf6"
+  },
+  {
+    "title": "2025-11-30 教育相談で見つけた「答え合わせ」という考え方",
+    "date": "2025-11-30",
+    "url": null,
+    "tags": [],
+    "category": "エッセイ",
+    "categoryColor": "#6b7280"
+  },
+  {
+    "title": "2025-11-22 ボランティアから学んだ感謝の伝え方。100人に1人の「ありがとう」が教えてくれたこと",
+    "date": "2025-11-22",
+    "url": null,
+    "tags": [],
+    "category": "エッセイ",
+    "categoryColor": "#6b7280"
+  },
+  {
+    "title": "魔の11月は実りの11月",
+    "date": "2025-11-20",
+    "url": null,
+    "tags": [],
+    "category": "エッセイ",
+    "categoryColor": "#6b7280"
+  },
+  {
+    "title": "2025-11-07 スマホだけでルーブリック作成",
+    "date": "2025-11-07",
+    "url": null,
+    "tags": [],
+    "category": "エッセイ",
+    "categoryColor": "#6b7280"
+  },
+  {
+    "title": "2025-11-02 AIで業務効率化のはずが...楽しすぎて時間が溶ける！教員のAI探求パラドックス",
+    "date": "2025-11-02",
+    "url": null,
+    "tags": [],
+    "category": "AI活用",
+    "categoryColor": "#8b5cf6"
+  },
+  {
+    "title": "2025-11-02 セカンドギガで端末の入れ替え、せっかくだから端末管理アプリを作った話",
+    "date": "2025-11-02",
+    "url": null,
+    "tags": [],
+    "category": "アプリ開発",
+    "categoryColor": "#3b82f6"
+  },
+  {
+    "title": "2025-11-02 セカンドギガスクール構想で端末管理が大変に！情報主任の負担を減らす端末管理Webアプリを作った話",
+    "date": "2025-11-02",
+    "url": null,
+    "tags": [],
+    "category": "アプリ開発",
+    "categoryColor": "#3b82f6"
+  },
+  {
+    "title": "2025-11-01 AIで書類作成が楽になる...はずが表のレイアウトに30分！年1回しか使わない教育委員会提出書類の面倒臭さ",
+    "date": "2025-11-01",
+    "url": null,
+    "tags": [],
+    "category": "AI活用",
+    "categoryColor": "#8b5cf6"
+  },
+  {
+    "title": "2025-10-31 運動会の片付けが大混乱！指示の出し方と体育倉庫の整理整頓で学校現場を救う方法",
+    "date": "2025-10-31",
+    "url": null,
+    "tags": [],
+    "category": "授業実践",
+    "categoryColor": "#ec4899"
+  },
+  {
+    "title": "2025-10-25 # 「なんで私のクラスばっかり...」初任者の涙から見えたサポートのジレンマ",
+    "date": "2025-10-25",
+    "url": null,
+    "tags": [],
+    "category": "エッセイ",
+    "categoryColor": "#6b7280"
+  },
+  {
+    "title": "2025-09-21 ささっと音声メモChrome拡張機能",
+    "date": "2025-09-21",
+    "url": null,
+    "tags": [],
+    "category": "エッセイ",
+    "categoryColor": "#6b7280"
+  },
+  {
+    "title": "2025-08-18 DIFY APIキー取得と初期設定完全ガイド",
+    "date": "2025-08-18",
+    "url": null,
+    "tags": [],
+    "category": "エッセイ",
+    "categoryColor": "#6b7280"
+  },
+  {
+    "title": "2025-08-18 DIFY APIキー取得手順",
+    "date": "2025-08-18",
+    "url": null,
+    "tags": [],
+    "category": "エッセイ",
+    "categoryColor": "#6b7280"
+  },
+  {
+    "title": "2025-08-18 Googleスライド一撃生成Webアプリ開発",
+    "date": "2025-08-18",
+    "url": null,
+    "tags": [],
+    "category": "アプリ開発",
+    "categoryColor": "#3b82f6"
+  },
+  {
+    "title": "「授業の準備くらい当たり前でしょ」と言う前に考えてほしいこと",
+    "date": "2025-07-10",
+    "url": null,
+    "tags": [],
+    "category": "授業実践",
+    "categoryColor": "#ec4899"
+  },
+  {
+    "title": "先生の弱さを見せる勇気-自己開示が作る学級の絆",
+    "date": "2025-07-10",
+    "url": null,
+    "tags": [],
+    "category": "授業実践",
+    "categoryColor": "#ec4899"
+  },
+  {
+    "title": "学年主任の「効率化」って、実は初任者を救う最強の愛情表現だった話",
+    "date": "2025-07-05",
+    "url": null,
+    "tags": [],
+    "category": "授業実践",
+    "categoryColor": "#ec4899"
+  },
+  {
+    "title": "初任者を泣かせたのは子供たちではなく、私でした",
+    "date": "2025-07-04",
+    "url": "https://note.com/hiroki_sasazawa/n/nf23b6992a2c3",
+    "tags": [],
+    "category": "エッセイ",
+    "categoryColor": "#6b7280"
+  },
+  {
+    "title": "プログラミング初学者の小学校教師が、AIに「日本語で」お願いしたらアプリが作れた話",
+    "date": "2025-07-01",
+    "url": "https://note.com/hiroki_sasazawa/n/n4db916bf52ad",
+    "tags": [],
+    "category": "AI活用",
+    "categoryColor": "#8b5cf6"
+  },
+  {
+    "title": "小学校教員がClaude 4.0とGoogle Apps Scriptで体力テスト記録ウェブアプリを作った話",
+    "date": "2025-06-30",
+    "url": "https://note.com/hiroki_sasazawa/n/ne516f434cfd9",
+    "tags": [],
+    "category": "AI活用",
+    "categoryColor": "#8b5cf6"
+  },
+  {
+    "title": "小学校教師がCursorで社会科調べ学習のワークシートを作ってみた話。",
+    "date": "2025-06-14",
+    "url": "https://note.com/hiroki_sasazawa/n/n1dc9f3bec197",
+    "tags": [],
+    "category": "アプリ開発",
+    "categoryColor": "#3b82f6"
+  },
+  {
+    "title": "「自分の学びを振り返るアプリ」をバージョンアップした話」 　AIが瞬時に返事をくれてふり返りが楽しくなった/データ配布",
+    "date": "2025-06-07",
+    "url": "https://note.com/hiroki_sasazawa/n/nf42de9823c44",
+    "tags": [],
+    "category": "AI活用",
+    "categoryColor": "#8b5cf6"
+  },
+  {
+    "title": "保護者のタイプ別コミュニケーション術！二者面談の極意を探った話",
+    "date": "2025-05-09",
+    "url": "https://note.com/hiroki_sasazawa/n/nc9196a19c95f",
+    "tags": [],
+    "category": "エッセイ",
+    "categoryColor": "#6b7280"
+  },
+  {
+    "title": "＜ポッドキャスト＞ふり返りAIコメントアプリを開発した話",
+    "date": "2025-05-06",
+    "url": "https://note.com/hiroki_sasazawa/n/n75b05df104d8",
+    "tags": [],
+    "category": "AI活用",
+    "categoryColor": "#8b5cf6"
+  },
+  {
+    "title": "AI連携によるコメントフィードバック機能を実装したWEBアプリ 「自分の学びをふり返るアプリ 」をつくった話。  #WEBアプリ=GAS×スプレッドシート×Dify",
+    "date": "2025-05-03",
+    "url": "https://note.com/hiroki_sasazawa/n/na5a2f91c9c48",
+    "tags": [],
+    "category": "AI活用",
+    "categoryColor": "#8b5cf6"
+  },
+  {
+    "title": "マークダウン入門とCursor連携",
+    "date": "2025-05-03",
+    "url": "https://note.com/hiroki_sasazawa/n/nbb20313a4c34",
+    "tags": [],
+    "category": "アプリ開発",
+    "categoryColor": "#3b82f6"
+  },
+  {
+    "title": "非プログラマー向けGitHub入門ガイド",
+    "date": "2025-05-02",
+    "url": "https://note.com/hiroki_sasazawa/n/n942a125a65f9",
+    "tags": [],
+    "category": "アプリ開発",
+    "categoryColor": "#3b82f6"
+  },
+  {
+    "title": "20mシャトルランと熱中症のリスク、現場の先生方が抱える小さなジレンマについてのつぶやき",
+    "date": "2025-04-28",
+    "url": "https://note.com/hiroki_sasazawa/n/nfc0653ec373d",
+    "tags": [],
+    "category": "エッセイ",
+    "categoryColor": "#6b7280"
+  },
+  {
+    "title": "保護者視点で体験！学級懇談会で&quot;ぶっちゃけトーク&quot;を仕掛けたら先生との距離が一気に縮まった話",
+    "date": "2025-04-23",
+    "url": "https://note.com/hiroki_sasazawa/n/n4d7853ab353e",
+    "tags": [],
+    "category": "授業実践",
+    "categoryColor": "#ec4899"
+  },
+  {
+    "title": "Google ChatとDifyを活用して１日の予定をスマホでの音声入力×AI自動転記するシステムを構築した話/小学校教員の業務効率化（DSLファイル、GASコード プレゼント）",
+    "date": "2025-04-20",
+    "url": "https://note.com/hiroki_sasazawa/n/n1ea0b01c8eab",
+    "tags": [],
+    "category": "AI活用",
+    "categoryColor": "#8b5cf6"
+  },
+  {
+    "title": "外国籍児童・保護者との連絡を円滑に！無料で使える多言語対応連絡アプリをスプレッドシートとGASで開発した話",
+    "date": "2025-04-16",
+    "url": "https://note.com/hiroki_sasazawa/n/ncbdb7f935eab",
+    "tags": [],
+    "category": "GAS・スプレッドシート",
+    "categoryColor": "#f59e0b"
+  },
+  {
+    "title": "Google ドキュメントの選択範囲だけをPDF化するスクリプトを作ったら便利すぎた話。",
+    "date": "2025-04-12",
+    "url": "https://note.com/hiroki_sasazawa/n/na7060ef831cc",
+    "tags": [],
+    "category": "エッセイ",
+    "categoryColor": "#6b7280"
+  },
+  {
+    "title": "人事異動したときのしんどさと向き合う話",
+    "date": "2025-04-12",
+    "url": "https://note.com/hiroki_sasazawa/n/nbf804f7434f2",
+    "tags": [],
+    "category": "学校運営",
+    "categoryColor": "#06b6d4"
+  },
+  {
+    "title": "Googleカレンダーの予定を毎朝定時にLINEへ自動通知する超便利ツールをGASで作り直した話。LINE Notifyサービス終了に伴いLINE Messaging APIを使った。/無料プレゼントあり",
+    "date": "2025-03-31",
+    "url": "https://note.com/hiroki_sasazawa/n/n25b3a1d6aee8",
+    "tags": [],
+    "category": "GAS・スプレッドシート",
+    "categoryColor": "#f59e0b"
+  },
+  {
+    "title": "はま",
+    "date": "2025-03-29",
+    "url": "https://note.com/hiroki_sasazawa/n/ne6750574ceca",
+    "tags": [],
+    "category": "エッセイ",
+    "categoryColor": "#6b7280"
+  },
+  {
+    "title": "GoogleスプレッドシートとGASで一年間分作り続けた学習予定表のおたより欄だけを秒で抽出してまとめた話。教員の学年引き継ぎ・見通しもこれでOK！業務効率化大作戦",
+    "date": "2025-03-23",
+    "url": "https://note.com/hiroki_sasazawa/n/n3e78ef152a47",
+    "tags": [],
+    "category": "GAS・スプレッドシート",
+    "categoryColor": "#f59e0b"
+  },
+  {
+    "title": "# 「教育者の厳しさは必要か？」　を考えてみた話",
+    "date": "2025-03-10",
+    "url": "https://note.com/hiroki_sasazawa/n/nd8490c8e7ea6",
+    "tags": [],
+    "category": "エッセイ",
+    "categoryColor": "#6b7280"
+  },
+  {
+    "title": "提出物管理アプリをGoogleスプレッドシートとGASで自作したので試してみてね/無料ダウンロード",
+    "date": "2025-03-09",
+    "url": "https://note.com/hiroki_sasazawa/n/na8c067780963",
+    "tags": [],
+    "category": "GAS・スプレッドシート",
+    "categoryColor": "#f59e0b"
+  },
+  {
+    "title": "#Dify×GAS 手書きの保健室来室記録をスプレッドシートに自動で転記するアプリの作り方（DSLファイル、スプシ　プレゼントあり）",
+    "date": "2025-02-23",
+    "url": "https://note.com/hiroki_sasazawa/n/nf108a8779f72",
+    "tags": [],
+    "category": "AI活用",
+    "categoryColor": "#8b5cf6"
+  },
+  {
+    "title": "#自由進度学習  &quot;できるあの子&quot;は一体何をしているの？",
+    "date": "2025-02-21",
+    "url": "https://note.com/hiroki_sasazawa/n/n24c0b28dbc6a",
+    "tags": [],
+    "category": "自由進度学習",
+    "categoryColor": "#10b981"
+  },
+  {
+    "title": "【学校現場】小学校の卒業生タブレット運用が大改革！現場を悩ませた話",
+    "date": "2025-02-20",
+    "url": "https://note.com/hiroki_sasazawa/n/n4ab36b571a0d",
+    "tags": [],
+    "category": "学校運営",
+    "categoryColor": "#06b6d4"
+  },
+  {
+    "title": "学級通信の写真掲載は是か非か？教員の負担軽減と教育的価値の狭間で揺れる職員室の話",
+    "date": "2025-02-17",
+    "url": "https://note.com/hiroki_sasazawa/n/nd69258cf5c02",
+    "tags": [],
+    "category": "授業実践",
+    "categoryColor": "#ec4899"
+  },
+  {
+    "title": "【#Dify学校現場での活用アイディア】 保健室の来室記録を自動デジタル化！手書きメモをスプレッドシートに自動入力するAIアプリを作った話",
+    "date": "2025-02-16",
+    "url": "https://note.com/hiroki_sasazawa/n/n9e7b7970e86d",
+    "tags": [],
+    "category": "AI活用",
+    "categoryColor": "#8b5cf6"
+  },
+  {
+    "title": "#自由進度学習 の中で久しぶりの一斉授業をしたら、教師としての本質に気付いた話",
+    "date": "2025-02-12",
+    "url": "https://note.com/hiroki_sasazawa/n/nb75c4ba6ff92",
+    "tags": [],
+    "category": "自由進度学習",
+    "categoryColor": "#10b981"
+  },
+  {
+    "title": "#Difyの学校現場での活用を探る　#「生活のきまりが多すぎる」問題に対応すべく、AIチャットボットを開発した話",
+    "date": "2025-02-08",
+    "url": "https://note.com/hiroki_sasazawa/n/n67b7764fb28e",
+    "tags": [],
+    "category": "AI活用",
+    "categoryColor": "#8b5cf6"
+  },
+  {
+    "title": "【現場の気づき】授業参観は満席なのに…学級懇談会で保護者が減っていく話✨",
+    "date": "2025-02-07",
+    "url": "https://note.com/hiroki_sasazawa/n/ne2dadecac789",
+    "tags": [],
+    "category": "授業実践",
+    "categoryColor": "#ec4899"
+  },
+  {
+    "title": "#自己調整力 をテーマに研修していたら、いつのまにか先生が一番レベルアップしていたかもしれない話",
+    "date": "2025-02-03",
+    "url": "https://note.com/hiroki_sasazawa/n/ne5cca4a2deed",
+    "tags": [],
+    "category": "自由進度学習",
+    "categoryColor": "#10b981"
+  },
+  {
+    "title": "#自由進度学習　では一体教師は何をするのか？　自身の教育観が変わった話",
+    "date": "2025-02-01",
+    "url": "https://note.com/hiroki_sasazawa/n/n9fda1fbac881",
+    "tags": [],
+    "category": "自由進度学習",
+    "categoryColor": "#10b981"
+  },
+  {
+    "title": "GASSISTANTで「ミニ漢字テスト記録」WebアプリをGASとスプレッドシートを連携して作った話【ノンプログラマーの教師向け】",
+    "date": "2025-01-26",
+    "url": "https://note.com/hiroki_sasazawa/n/n782c4b56ee2d",
+    "tags": [],
+    "category": "GAS・スプレッドシート",
+    "categoryColor": "#f59e0b"
+  },
+  {
+    "title": "社会科ではじめた「自己調整学習」を他の教科でやってみたら、子どもたちの「学び方」がどんどん転移していった話。",
+    "date": "2025-01-21",
+    "url": "https://note.com/hiroki_sasazawa/n/n07529f471488",
+    "tags": [],
+    "category": "自由進度学習",
+    "categoryColor": "#10b981"
+  },
+  {
+    "title": "自己調整力を育む自由進度学習を続けたら、「気になるあの子」が変わった話",
+    "date": "2025-01-20",
+    "url": "https://note.com/hiroki_sasazawa/n/nb1af94e00e44",
+    "tags": [],
+    "category": "自由進度学習",
+    "categoryColor": "#10b981"
+  },
+  {
+    "title": "# 非プログラマーの小学校教員がGASアシスタントで4択クイズアプリを開発した話",
+    "date": "2025-01-19",
+    "url": "https://note.com/hiroki_sasazawa/n/n13eded28927a",
+    "tags": [],
+    "category": "GAS・スプレッドシート",
+    "categoryColor": "#f59e0b"
+  },
+  {
+    "title": "自作教材、わたしの管理方法 / Google WorkspaceときどきNotion。",
+    "date": "2025-01-19",
+    "url": "https://note.com/hiroki_sasazawa/n/n169343b3916a",
+    "tags": [],
+    "category": "授業実践",
+    "categoryColor": "#ec4899"
+  },
+  {
+    "title": "子ども主体の学びで「あいさつ」の在り方は変わる話　【小学校現場での気づきから】",
+    "date": "2025-01-18",
+    "url": "https://note.com/hiroki_sasazawa/n/n374236517ad3",
+    "tags": [],
+    "category": "学校運営",
+    "categoryColor": "#06b6d4"
+  },
+  {
+    "title": "授業中、すぐ「声かけ」はNG？ 子どもの「待ち」が育む力",
+    "date": "2025-01-15",
+    "url": "https://note.com/hiroki_sasazawa/n/n9a447c88bd2c",
+    "tags": [],
+    "category": "授業実践",
+    "categoryColor": "#ec4899"
+  },
+  {
+    "title": "Difyとスプシディファイを使って、スプレッドシートのふり返りに１クリックでコメントバックができるようになった話",
+    "date": "2025-01-13",
+    "url": "https://note.com/hiroki_sasazawa/n/nf1e5d4648294",
+    "tags": [],
+    "category": "AI活用",
+    "categoryColor": "#8b5cf6"
+  },
+  {
+    "title": "Dify　コメントバック　ワークフロー「コメントくん」　DSLファイルプレゼント",
+    "date": "2025-01-11",
+    "url": "https://note.com/hiroki_sasazawa/n/nf969871265d7",
+    "tags": [],
+    "category": "AI活用",
+    "categoryColor": "#8b5cf6"
+  },
+  {
+    "title": "DifyとGeminiAPIで簡単構築！ふり返りをAIがコメントバック！先生の負担を激減させる魔法のワークフローを作った話（DSLファイルプレゼント）",
+    "date": "2025-01-11",
+    "url": "https://note.com/hiroki_sasazawa/n/n72a1a84a69f2",
+    "tags": [],
+    "category": "AI活用",
+    "categoryColor": "#8b5cf6"
+  },
+  {
+    "title": "目標設定が上手になる！「◯学期のめあて」はふり返りから書かせよう！子どもの自己調整力を育むヒントとは？",
+    "date": "2025-01-08",
+    "url": "https://note.com/hiroki_sasazawa/n/n2a2fae288f53",
+    "tags": [],
+    "category": "自由進度学習",
+    "categoryColor": "#10b981"
+  },
+  {
+    "title": "「AI様々」で済ませたら教育現場は危険！　AI時代、本当に必要な教員のチカラとは？",
+    "date": "2025-01-06",
+    "url": "https://note.com/hiroki_sasazawa/n/nfefb8480be00",
+    "tags": [],
+    "category": "AI活用",
+    "categoryColor": "#8b5cf6"
+  },
+  {
+    "title": "「なぜ、あの研修は先生たちが前のめりだったのか？」自由進度学習スタイルによるスプレッドシート研修の舞台裏",
+    "date": "2025-01-02",
+    "url": "https://note.com/hiroki_sasazawa/n/na00889b93316",
+    "tags": [],
+    "category": "自由進度学習",
+    "categoryColor": "#10b981"
+  },
+  {
+    "title": "スプレッドシート研修を自由進度学習で！スキルの差も関係なし、個別最適な新しい校内研修のカタチを提案します。",
+    "date": "2025-01-01",
+    "url": "https://note.com/hiroki_sasazawa/n/nf6ef7868884d",
+    "tags": [],
+    "category": "自由進度学習",
+    "categoryColor": "#10b981"
+  },
+  {
+    "title": "Notionを使ったら放課後の2時間で通知表の所見ができた話。　スマホ×NotionAI×データベースリレーションで「しゃべるだけ所見」",
+    "date": "2024-12-19",
+    "url": "https://note.com/hiroki_sasazawa/n/nb4ad7c72f668",
+    "tags": [],
+    "category": "AI活用",
+    "categoryColor": "#8b5cf6"
+  },
+  {
+    "title": "Feloと一緒にちびまる子ちゃんの世界観で脚本づくり！　服務規律研修が劇的に変わった話　「もしも担任の先生が飲酒運転で懲戒免職になったら」",
+    "date": "2024-12-13",
+    "url": "https://note.com/hiroki_sasazawa/n/n0b96d288ef0e",
+    "tags": [],
+    "category": "AI活用",
+    "categoryColor": "#8b5cf6"
+  },
+  {
+    "title": "社会科で自己調整学習を半年間実践してみたら、子どもたちの学び方が大きく変わった話",
+    "date": "2024-12-07",
+    "url": "https://note.com/hiroki_sasazawa/n/n45720ca0b7b5",
+    "tags": [],
+    "category": "自由進度学習",
+    "categoryColor": "#10b981"
+  },
+  {
+    "title": "新体力テストの記録入力はGoogleフォームでいいんじゃない？って話。　縦割り活動と校務DXの実践例",
+    "date": "2024-11-24",
+    "url": "https://note.com/hiroki_sasazawa/n/n536ea9ccef88",
+    "tags": [],
+    "category": "GAS・スプレッドシート",
+    "categoryColor": "#f59e0b"
+  },
+  {
+    "title": "AIとの対話で作る教材！15分で完成する社会科の調べ学習シート 〜Claudeを活用した個別最適化への挑戦〜",
+    "date": "2024-11-17",
+    "url": "https://note.com/hiroki_sasazawa/n/n4bb08e633fd7",
+    "tags": [],
+    "category": "AI活用",
+    "categoryColor": "#8b5cf6"
+  },
+  {
+    "title": "ロイロノートとLLMを使った社会科の授業改革＿クラス全員の「問い」をその場で整理して学習計画づくりをした話",
+    "date": "2024-11-03",
+    "url": "https://note.com/hiroki_sasazawa/n/n3f34815951b3",
+    "tags": [],
+    "category": "AI活用",
+    "categoryColor": "#8b5cf6"
+  },
+  {
+    "title": "５年社会科Padletを活用した協働的な学習　日本の工場分布を可視化して「太平洋ベルト」を学んだ話。",
+    "date": "2024-10-27",
+    "url": "https://note.com/hiroki_sasazawa/n/n77868a464000",
+    "tags": [],
+    "category": "授業実践",
+    "categoryColor": "#ec4899"
+  },
+  {
+    "title": "スプレッドシートを使って小学校での特別支援学級と協力学級の時間割共有をした話",
+    "date": "2024-10-13",
+    "url": "https://note.com/hiroki_sasazawa/n/nac4ba76d2f66",
+    "tags": [],
+    "category": "GAS・スプレッドシート",
+    "categoryColor": "#f59e0b"
+  },
+  {
+    "title": "家庭学習を自己調整の場に！クラゲチャートで子どもの学ぶ力を引き出した話",
+    "date": "2024-10-12",
+    "url": "https://note.com/hiroki_sasazawa/n/na8b809ffb32b",
+    "tags": [],
+    "category": "自由進度学習",
+    "categoryColor": "#10b981"
+  },
+  {
+    "title": "対話のラリーで「ふり返り」を深める　自己調整力を支援するAIチャットボットを作ってみた話",
+    "date": "2024-10-05",
+    "url": "https://note.com/hiroki_sasazawa/n/n15a706fb0f05",
+    "tags": [],
+    "category": "自由進度学習",
+    "categoryColor": "#10b981"
+  },
+  {
+    "title": "AIと二人三脚！批判的思考で学習指導案をブラッシュアップ！AI辛口指導主事にコメントをもらったら授業づくりが深まった話",
+    "date": "2024-09-23",
+    "url": "https://note.com/hiroki_sasazawa/n/n89e3358c83e3",
+    "tags": [],
+    "category": "AI活用",
+    "categoryColor": "#8b5cf6"
+  },
+  {
+    "title": "AIで授業を変革！小学校国語の「聞く・話す」単元で、話し合いをテキスト化し可視化した話",
+    "date": "2024-09-16",
+    "url": "https://note.com/hiroki_sasazawa/n/n503c32a7d322",
+    "tags": [],
+    "category": "AI活用",
+    "categoryColor": "#8b5cf6"
+  },
+  {
+    "title": "Claude 3.5のProjects機能を使って教科書のスクショから４択クイズを自動作成botを作ったら、教師の働き方が変えられる話。",
+    "date": "2024-08-18",
+    "url": "https://note.com/hiroki_sasazawa/n/n2b5b972799c5",
+    "tags": [],
+    "category": "AI活用",
+    "categoryColor": "#8b5cf6"
+  },
+  {
+    "title": "AI未体験のセンセーたちにPerplexity（パープレキシティー）でチート読書感想文を書いてもらったら、みんな「パプる」ようになった話。",
+    "date": "2024-08-09",
+    "url": "https://note.com/hiroki_sasazawa/n/nb92a26331512",
+    "tags": [],
+    "category": "AI活用",
+    "categoryColor": "#8b5cf6"
+  },
+  {
+    "title": "Canvaの勉強会を勤務校でやってみた話。最初のアウトプットは何がイイ？",
+    "date": "2024-08-05",
+    "url": "https://note.com/hiroki_sasazawa/n/n086a03edc318",
+    "tags": [],
+    "category": "授業実践",
+    "categoryColor": "#ec4899"
+  },
+  {
+    "title": "【教育現場のAI活用の提案】Gemini×GAS×スプレッドシートで子どもたちのふり返りを自動的にフィードバックコメントする自己調整学習支援ツールを試作した話",
+    "date": "2024-07-30",
+    "url": "https://note.com/hiroki_sasazawa/n/na8ab7973cded",
+    "tags": [],
+    "category": "自由進度学習",
+    "categoryColor": "#10b981"
+  },
+  {
+    "title": "住所データを「秒」でマッピング！　家庭訪問の準備作業を効率化するスプレッドシートを作った話。（データ配布あり）",
+    "date": "2024-07-25",
+    "url": "https://note.com/hiroki_sasazawa/n/n992c3965de7b",
+    "tags": [],
+    "category": "GAS・スプレッドシート",
+    "categoryColor": "#f59e0b"
+  },
+  {
+    "title": "NotionAIで黒板写真を分析して　授業記録を最適化してみた話",
+    "date": "2024-07-21",
+    "url": "https://note.com/hiroki_sasazawa/n/ndbcdd08dff68",
+    "tags": [],
+    "category": "AI活用",
+    "categoryColor": "#8b5cf6"
+  },
+  {
+    "title": "AIの力を借りて教材づくり　算数の類似問題を作成してみた話",
+    "date": "2024-07-13",
+    "url": "https://note.com/hiroki_sasazawa/n/n0e524057c892",
+    "tags": [],
+    "category": "AI活用",
+    "categoryColor": "#8b5cf6"
+  },
+  {
+    "title": "AIの力を借りて教材研究を効率化②社会科の教科書からクイズを自動生成して調べ学習を導いてみた話。",
+    "date": "2024-07-09",
+    "url": "https://note.com/hiroki_sasazawa/n/nf629c4571b6e",
+    "tags": [],
+    "category": "AI活用",
+    "categoryColor": "#8b5cf6"
+  },
+  {
+    "title": "AIの力で授業準備を効率化Claude 3.5を使って総合のアンケート＆Googleフォームを15分で作った話。",
+    "date": "2024-07-07",
+    "url": "https://note.com/hiroki_sasazawa/n/n9dbfe83c5c9d",
+    "tags": [],
+    "category": "AI活用",
+    "categoryColor": "#8b5cf6"
+  },
+  {
+    "title": "カレンダーで時間割の情報を共有する",
+    "date": "2024-06-23",
+    "url": "https://note.com/hiroki_sasazawa/n/n20c7a14ff944",
+    "tags": [],
+    "category": "エッセイ",
+    "categoryColor": "#6b7280"
+  },
+  {
+    "title": "GoogleNotebookLMを活用した自由進度学習：：5年社会科で100個の問いを生み出す授業をやってみた話",
+    "date": "2024-06-22",
+    "url": "https://note.com/hiroki_sasazawa/n/n7eb5aa0ca473",
+    "tags": [],
+    "category": "自由進度学習",
+    "categoryColor": "#10b981"
+  },
+  {
+    "title": "ICTを活用した家庭学習（宿題）の提出管理をやめた話。その場でマルつけ、インタビュー、フィードバック。",
+    "date": "2024-06-15",
+    "url": "https://note.com/hiroki_sasazawa/n/nabf01aba2f05",
+    "tags": [],
+    "category": "エッセイ",
+    "categoryColor": "#6b7280"
+  },
+  {
+    "title": "Notionで卒業アルバム編集の写真管理をしたら、最後の枚数調整がスゴイ楽だった話。",
+    "date": "2024-06-08",
+    "url": "https://note.com/hiroki_sasazawa/n/n3ebe00e2504a",
+    "tags": [],
+    "category": "授業実践",
+    "categoryColor": "#ec4899"
+  },
+  {
+    "title": "宿泊行事といった大規模な学校行事の運営はGoogleドキュメント上でプロジェクト管理をするのがオススメといういう話",
+    "date": "2024-05-25",
+    "url": "https://note.com/hiroki_sasazawa/n/n54aed8038b5f",
+    "tags": [],
+    "category": "GAS・スプレッドシート",
+    "categoryColor": "#f59e0b"
+  },
+  {
+    "title": "教育計画デジタル化の効果と手順: Googleドライブ＆Googleスプレッドシート＆Googleサイトの連携",
+    "date": "2024-05-12",
+    "url": "https://note.com/hiroki_sasazawa/n/n1dd9fd49f87f",
+    "tags": [],
+    "category": "GAS・スプレッドシート",
+    "categoryColor": "#f59e0b"
+  },
+  {
+    "title": "Notionを使った授業記録のデータベース化　タグをつけて板書写真をストック・共有することで先生同士の学び合いが加速する話。",
+    "date": "2024-04-29",
+    "url": "https://note.com/hiroki_sasazawa/n/nb41d399280a9",
+    "tags": [],
+    "category": "授業実践",
+    "categoryColor": "#ec4899"
+  },
+  {
+    "title": "Canvaを使って、小学校で働く妻に自宅で学級目標の掲示物の作り方を教えたら、いくつかの知見が得られた話",
+    "date": "2024-04-20",
+    "url": "https://note.com/hiroki_sasazawa/n/n1e9fe11f78f5",
+    "tags": [],
+    "category": "授業実践",
+    "categoryColor": "#ec4899"
+  },
+  {
+    "title": "教育相談の日程調整を全クラス一括デジタル化！Googleフォームとスプレッドシートを使った効率的な方法〜クエリ関数は学校現場を救う〜",
+    "date": "2024-04-14",
+    "url": "https://note.com/hiroki_sasazawa/n/n98ba72a71181",
+    "tags": [],
+    "category": "GAS・スプレッドシート",
+    "categoryColor": "#f59e0b"
+  },
+  {
+    "title": "学年主任必見、学年メンバーみんなで使えるタスク管理チェックシートをスプシで一年間使ったみた話。（データ配布あり）",
+    "date": "2024-03-28",
+    "url": "https://note.com/hiroki_sasazawa/n/n7840fd28c6ff",
+    "tags": [],
+    "category": "GAS・スプレッドシート",
+    "categoryColor": "#f59e0b"
+  },
+  {
+    "title": "大谷グローブをベースボール型ゲームに取り入れ、クラスを沸かせた話",
+    "date": "2024-03-17",
+    "url": "https://note.com/hiroki_sasazawa/n/ne6cc473008ee",
+    "tags": [],
+    "category": "エッセイ",
+    "categoryColor": "#6b7280"
+  },
+  {
+    "title": "保護者からの下校方法の連絡をGoogleフォームで受け付け、スプレッドシートで全校で一元管理する運用を1年間やってみたらアリだった話。",
+    "date": "2024-03-16",
+    "url": "https://note.com/hiroki_sasazawa/n/n04afb0669f3d",
+    "tags": [],
+    "category": "GAS・スプレッドシート",
+    "categoryColor": "#f59e0b"
+  },
+  {
+    "title": "スプレッドシートで修学旅行の文化財ウォークラリー計画をスマートにするシートをつくった。→ファイル無料配布します",
+    "date": "2024-02-07",
+    "url": "https://note.com/hiroki_sasazawa/n/n9c23d26b5bd2",
+    "tags": [],
+    "category": "GAS・スプレッドシート",
+    "categoryColor": "#f59e0b"
+  },
+  {
+    "title": "スクラッチ版「言葉ポーカー」をつくった話",
+    "date": "2024-02-03",
+    "url": "https://note.com/hiroki_sasazawa/n/n70ce5044018d",
+    "tags": [],
+    "category": "アプリ開発",
+    "categoryColor": "#3b82f6"
+  },
+  {
+    "title": "漢字は声に出して学ぶ。ロイロノートで使える「ひとり学び漢字フラッシュカード」をCanvaの一括作成で作った話。",
+    "date": "2024-01-17",
+    "url": "https://note.com/hiroki_sasazawa/n/n8c5844d74da5",
+    "tags": [],
+    "category": "授業実践",
+    "categoryColor": "#ec4899"
+  },
+  {
+    "title": "（GAS）フォームで入力した内容をカレンダーに反映させる　←googleカレンダーで校務スケジュールを共有したら働き方が変わった話③",
+    "date": "2024-01-02",
+    "url": "https://note.com/hiroki_sasazawa/n/n9727408ebdfb",
+    "tags": [],
+    "category": "GAS・スプレッドシート",
+    "categoryColor": "#f59e0b"
+  },
+  {
+    "title": "googleカレンダーで校務スケジュールを共有したら働き方が変わった話②　→スプレッドシートから学校行事を一括で登録する（GAS）",
+    "date": "2023-12-25",
+    "url": "https://note.com/hiroki_sasazawa/n/na66b7bcadd0a",
+    "tags": [],
+    "category": "GAS・スプレッドシート",
+    "categoryColor": "#f59e0b"
+  },
+  {
+    "title": "googleカレンダーで校務スケジュールを共有したら働き方が変わった話①　→クラスルームのカレンダーを使おう",
+    "date": "2023-12-24",
+    "url": "https://note.com/hiroki_sasazawa/n/n3f37225aaa0d",
+    "tags": [],
+    "category": "GAS・スプレッドシート",
+    "categoryColor": "#f59e0b"
+  },
+  {
+    "title": "Googleフォームを使って、校内研修で行っている1人1研究授業の指導案をリンク付きスプレッドシートでライブラリ化して共有する。",
+    "date": "2023-12-15",
+    "url": "https://note.com/hiroki_sasazawa/n/na0c6307792ec",
+    "tags": [],
+    "category": "GAS・スプレッドシート",
+    "categoryColor": "#f59e0b"
+  },
+  {
+    "title": "Notionで通知表の所見メモをデータベース化して運用したら、メリットだらけだった話。",
+    "date": "2023-12-09",
+    "url": "https://note.com/hiroki_sasazawa/n/nf47d329927f3",
+    "tags": [],
+    "category": "授業実践",
+    "categoryColor": "#ec4899"
+  },
+  {
+    "title": "（GAS)ClassroomとTeamsを連携することで職員間の情報連絡をまとめてみた話。",
+    "date": "2023-12-02",
+    "url": "https://note.com/hiroki_sasazawa/n/ne95d60d14053",
+    "tags": [],
+    "category": "GAS・スプレッドシート",
+    "categoryColor": "#f59e0b"
+  },
+  {
+    "title": "修学旅行の行事評価をフォーム＆スプシにしたら、宿泊学習の引率がホワイトになった話。",
+    "date": "2023-11-24",
+    "url": "https://note.com/hiroki_sasazawa/n/nbb8e832ef0a6",
+    "tags": [],
+    "category": "GAS・スプレッドシート",
+    "categoryColor": "#f59e0b"
+  },
+  {
+    "title": "GASでクラスの情報共有スライドにその日の宿題未提出者一覧ページを自動的に追加する。実質、担任は何もしない。",
+    "date": "2023-11-18",
+    "url": "https://note.com/hiroki_sasazawa/n/n81325a2cadb0",
+    "tags": [],
+    "category": "GAS・スプレッドシート",
+    "categoryColor": "#f59e0b"
+  },
+  {
+    "title": "小学校における朝のクラスへの情報共有の最適解。クラスルームよりも、スライドの方がスマートだった話。",
+    "date": "2023-11-12",
+    "url": "https://note.com/hiroki_sasazawa/n/n781358b11fc9",
+    "tags": [],
+    "category": "学校運営",
+    "categoryColor": "#06b6d4"
+  },
+  {
+    "title": "ペーパーレス職員会議を小学校現場に導入するためのロードマップ",
+    "date": "2023-10-31",
+    "url": "https://note.com/hiroki_sasazawa/n/n9a3106cffb37",
+    "tags": [],
+    "category": "授業実践",
+    "categoryColor": "#ec4899"
+  },
+  {
+    "title": "小学校現場、スプレッドシートのこんな使い方。就学時検診での班別検診済み状況をリアルタイムで共有する。",
+    "date": "2023-10-24",
+    "url": "https://note.com/hiroki_sasazawa/n/ncee8b9a0a52a",
+    "tags": [],
+    "category": "GAS・スプレッドシート",
+    "categoryColor": "#f59e0b"
+  },
+  {
+    "title": "Padletを活用して自主学習ノートを共有する。３つの仕掛けでハマった話。",
+    "date": "2023-10-10",
+    "url": "https://note.com/hiroki_sasazawa/n/n0612ba464890",
+    "tags": [],
+    "category": "授業実践",
+    "categoryColor": "#ec4899"
+  },
+  {
+    "title": "学級担任を悩ませる提出物管理に新提案。簡単入力フォーム＆GASで未提出者リストを自動作成。　データを児童と共有して自己管理を促す仕組みづくり",
+    "date": "2023-09-24",
+    "url": "https://note.com/hiroki_sasazawa/n/n2eb2ada5433b",
+    "tags": [],
+    "category": "GAS・スプレッドシート",
+    "categoryColor": "#f59e0b"
+  },
+  {
+    "title": "Canvaを使って修学旅行の保護者説明会をやめた話",
+    "date": "2023-09-16",
+    "url": "https://note.com/hiroki_sasazawa/n/ndd43175c13e3",
+    "tags": [],
+    "category": "授業実践",
+    "categoryColor": "#ec4899"
+  },
+  {
+    "title": "子どもたちの「知りたい」を反映させた社会科の学習課題・学習計画を短時間で立案！　ロイロノート×Google keep×ChatGPTのコンボでみんなハッピーに",
+    "date": "2023-09-10",
+    "url": "https://note.com/hiroki_sasazawa/n/nbfe785d303ea",
+    "tags": [],
+    "category": "AI活用",
+    "categoryColor": "#8b5cf6"
+  },
+  {
+    "title": "小学校現場で本当に使えるExcelスキルを底上げすべく、夏休みに勉強会を行ったら、自分にも大きな学びが得られた話。",
+    "date": "2023-09-10",
+    "url": "https://note.com/hiroki_sasazawa/n/n4c8f3b4b58e1",
+    "tags": [],
+    "category": "学校運営",
+    "categoryColor": "#06b6d4"
+  },
+  {
+    "title": "GASを使って、１秒で席替え。時間コスト下げれば頻度を増やしても負担にならず、先生も子どももハッピーに。",
+    "date": "2023-08-31",
+    "url": "https://note.com/hiroki_sasazawa/n/n34b815949b93",
+    "tags": [],
+    "category": "GAS・スプレッドシート",
+    "categoryColor": "#f59e0b"
+  },
+  {
+    "title": "小学校で実際に運用している欠席フォームについて伝えます。",
+    "date": "2023-08-15",
+    "url": "https://note.com/hiroki_sasazawa/n/n5fa9bad3d739",
+    "tags": [],
+    "category": "学校運営",
+    "categoryColor": "#06b6d4"
+  },
+  {
+    "title": "保護者サイド・学校サイド両面から負担を減らした欠席フォームの在り方を探る",
+    "date": "2023-08-14",
+    "url": "https://note.com/hiroki_sasazawa/n/n0db3f8df63c6",
+    "tags": [],
+    "category": "学校運営",
+    "categoryColor": "#06b6d4"
+  },
+  {
+    "title": "登校班名簿をスプレッドシートでつくり、クエリ関数で抽出すると、全校みーんなハッピーになる。",
+    "date": "2023-08-12",
+    "url": "https://note.com/hiroki_sasazawa/n/n1c76e15b5c69",
+    "tags": [],
+    "category": "GAS・スプレッドシート",
+    "categoryColor": "#f59e0b"
+  },
+  {
+    "title": "GASを活用して学年会レジュメに今後１ヶ月の予定を１０秒で入力する。＜googleドキュメント✖️GAS✖️googleカレンダー＞",
+    "date": "2023-08-06",
+    "url": "https://note.com/hiroki_sasazawa/n/n8638b59d26f4",
+    "tags": [],
+    "category": "GAS・スプレッドシート",
+    "categoryColor": "#f59e0b"
+  },
+  {
+    "title": "学年会のレジュメをgoogleドキュメントで一年間運用したらメリットだらけだった",
+    "date": "2023-07-26",
+    "url": "https://note.com/hiroki_sasazawa/n/n88928fbb6a48",
+    "tags": [],
+    "category": "GAS・スプレッドシート",
+    "categoryColor": "#f59e0b"
+  }
+]
